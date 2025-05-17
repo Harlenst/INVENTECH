@@ -1,0 +1,681 @@
+/* Import Poppins font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+/* Estilo para las tarjetas modernas (similar al diseño de la imagen) */
+.modern-card {
+  /* Fondo gris claro para las tarjetas, para mejor contraste con el fondo azul oscuro */
+  background-color: #4A5568;
+  /* Borde blanco sutil */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  /* Bordes redondeados */
+  border-radius: 10px;
+  /* Sombra suave */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  /* Transición para el efecto hover */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efecto hover para las tarjetas */
+.modern-card:hover {
+  /* Levantar la tarjeta ligeramente */
+  transform: translateY(-5px);
+  /* Aumentar la sombra */
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Efecto para los íconos al hacer hover */
+.icon-hover {
+  /* Transición suave para el tamaño y rotación */
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+/* Efecto hover para los íconos */
+.icon-hover:hover {
+  /* Aumentar el tamaño y rotar ligeramente */
+  transform: scale(1.2) rotate(10deg);
+}
+
+/* Efecto hover para los enlaces de la barra de navegación */
+.hover-bg {
+  /* Transición suave para el fondo y el color */
+  transition: background-color 0.3s ease, color 0.3s ease;
+  /* Color azul por defecto */
+  color: #64B5F6 !important;
+}
+
+/* Efecto hover para los enlaces de la barra de navegación */
+.hover-bg:hover {
+  /* Fondo blanco translúcido */
+  background-color: rgba(255, 255, 255, 0.1);
+  /* Color blanco al hacer hover */
+  color: #FFFFFF !important;
+}
+
+/* Efecto para el logo */
+.logo-hover {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+/* Efecto hover para el logo */
+.logo-hover:hover {
+  color: #64B5F6 !important;
+  transform: scale(1.05);
+}
+
+/* Animación para el ícono del logo */
+.logo-icon {
+  transition: transform 0.3s ease;
+}
+
+/* Efecto hover para el ícono del logo */
+.logo-hover:hover .logo-icon {
+  transform: rotate(45deg);
+}
+
+/* Estilo para el dropdown */
+.dropdown-menu {
+  background-color: #1C2526 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilo para los ítems del dropdown */
+.dropdown-item {
+  color: #FFFFFF !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Efecto hover para los ítems del dropdown */
+.dropdown-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #64B5F6 !important;
+}
+
+/* Estilos globales para la aplicación */
+.App {
+  /* Centrar el texto */
+  text-align: center;
+}
+
+/* Estilos para la página de login */
+.login-page {
+  /* Altura mínima de la pantalla */
+  min-height: 100vh;
+  /* Fondo azul oscuro para consistencia con otras vistas */
+  background-color: #1C2526;
+  /* Centrar contenido */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+/* Contenedor del login */
+.login-container {
+  /* Fondo gris oscuro */
+  background-color: #2C3E50;
+  /* Bordes redondeados */
+  border-radius: 8px;
+  padding: 2rem;
+  max-width: 400px;
+  width: 100%;
+}
+
+/* Estilo del texto del logo */
+.logo-text {
+  /* Color blanco */
+  color: #ffffff;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
+}
+
+/* Título del login */
+.login-title {
+  /* Color blanco */
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Estilos para los formularios (Login, ClientRegister, etc.) */
+.form-label {
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+/* Estilos para formularios en contenedores oscuros (como login-container) */
+.login-container .form-label,
+.login-page .form-label {
+  /* Color blanco para las etiquetas */
+  color: #ffffff;
+}
+
+/* Estilos para los inputs en contenedores oscuros */
+.login-container .form-control,
+.login-page .form-control {
+  /* Fondo gris oscuro */
+  background-color: #34495E;
+  border: none;
+  color: #ffffff;
+  padding: 0.75rem;
+}
+
+/* Efecto focus para los inputs en contenedores oscuros */
+.login-container .form-control:focus,
+.login-page .form-control:focus {
+  background-color: #34495E;
+  border-color: #3498DB;
+  box-shadow: none;
+  color: #ffffff;
+}
+
+/* Placeholder para los inputs en contenedores oscuros */
+.login-container .form-control::placeholder,
+.login-page .form-control::placeholder {
+  color: #BDC3C7;
+}
+
+/* Estilos para formularios en contenedores claros (como client-box) */
+.client-box .form-label,
+.client-list .form-label,
+.modal-content .form-label {
+  /* Color oscuro para las etiquetas */
+  color: #333;
+}
+
+/* Estilos para los inputs en contenedores claros */
+.client-box .form-control,
+.client-list .form-control,
+.modal-content .form-control {
+  /* Fondo claro */
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  color: #333;
+  padding: 0.75rem;
+}
+
+/* Efecto focus para los inputs en contenedores claros */
+.client-box .form-control:focus,
+.client-list .form-control:focus,
+.modal-content .form-control:focus {
+  background-color: #f8f9fa;
+  border-color: #3498DB;
+  box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+  color: #333;
+}
+
+/* Placeholder para los inputs en contenedores claros */
+.client-box .form-control::placeholder,
+.client-list .form-control::placeholder,
+.modal-content .form-control::placeholder {
+  color: #6c757d;
+}
+
+/* Estilos para los selectores */
+.form-select {
+  border: 1px solid #ced4da;
+  padding: 0.75rem;
+  /* Icono de flecha para el selector */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%236c757d'%3E%3Cpath d='M8 12l-4-4h8z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 12px;
+}
+
+/* Selectores en contenedores oscuros */
+.login-container .form-select,
+.login-page .form-select {
+  background-color: #34495E;
+  border: none;
+  color: #ffffff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23BDC3C7'%3E%3Cpath d='M8 12l-4-4h8z'/%3E%3C/svg%3E");
+}
+
+/* Efecto focus para los selectores en contenedores oscuros */
+.login-container .form-select:focus,
+.login-page .form-select:focus {
+  border-color: #3498DB;
+  box-shadow: none;
+  color: #ffffff;
+}
+
+/* Selectores en contenedores claros */
+.client-box .form-select,
+.client-list .form-select,
+.modal-content .form-select {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Efecto focus para los selectores en contenedores claros */
+.client-box .form-select:focus,
+.client-list .form-select:focus,
+.modal-content .form-select:focus {
+  border-color: #3498DB;
+  box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+  color: #333;
+}
+
+/* Estilos para los botones primarios */
+.btn-primary {
+  background-color: #3498DB;
+  border: none;
+  padding: 0.75rem;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Efecto hover para los botones primarios */
+.btn-primary:hover {
+  background-color: #2980B9;
+  transform: scale(1.05);
+}
+
+/* Estilos para los botones secundarios */
+.btn-secondary {
+  background-color: #6c757d;
+  border: none;
+  padding: 0.75rem;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Efecto hover para los botones secundarios */
+.btn-secondary:hover {
+  background-color: #5a6268;
+  transform: scale(1.05);
+}
+
+/* Estilos para los botones de éxito */
+.btn-success {
+  background-color: #28a745;
+  border: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Efecto hover para los botones de éxito */
+.btn-success:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+/* Estilos para los botones de peligro */
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Efecto hover para los botones de peligro */
+.btn-danger:hover {
+  background-color: #c82333;
+  transform: scale(1.05);
+}
+
+/* Estilos para las alertas de error */
+.alert-danger {
+  background-color: rgba(231, 76, 60, 0.1);
+  border-color: #E74C3C;
+  color: #F2AEAE;
+  font-size: 0.9rem;
+}
+
+/* Estilos para las alertas de éxito */
+.alert-success {
+  background-color: rgba(40, 167, 69, 0.1);
+  border-color: #28a745;
+  color: #28a745;
+  font-size: 0.9rem;
+}
+
+/* Ajuste de alertas en contenedores claros */
+.client-box .alert-danger,
+.client-list .alert-danger {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  color: #721c24;
+}
+
+/* Ajuste de alertas de éxito en contenedores claros */
+.client-box .alert-success,
+.client-list .alert-success {
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+  color: #155724;
+}
+
+/* Estilos para los enlaces primarios */
+.text-primary {
+  color: #3498DB !important;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+/* Efecto hover para los enlaces primarios */
+.text-primary:hover {
+  color: #5DADE2 !important;
+}
+
+/* Estilos para los badges en RoleAssignment */
+.badge.bg-success {
+  background-color: #28a745 !important;
+}
+
+.badge.bg-primary {
+  background-color: #007bff !important;
+}
+
+.badge.bg-danger {
+  background-color: #dc3545 !important;
+}
+
+.badge.bg-warning {
+  background-color: #ffc107 !important;
+  color: #212529;
+}
+
+/* Estilos para los badges en ClientRegister y ClientList */
+.badge.bg-pink {
+  background-color: #ff69b4 !important;
+}
+
+.badge.bg-secondary {
+  background-color: #6c757d !important;
+}
+
+/* Animación de giro */
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+/* Definición de la animación de giro */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Ajustes responsivos */
+@media (max-width: 576px) {
+  .w-100 {
+    width: 100% !important;
+  }
+}
+
+/* Estilos globales de raíz */
+:root {
+  font-family: 'Poppins', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1C2526; /* Fondo global azul oscuro */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Estilos para los enlaces */
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+/* Efecto hover para los enlaces */
+a:hover {
+  color: #535bf2;
+}
+
+/* Estilos globales para el body */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #1C2526; /* Fondo global azul oscuro */
+}
+
+/* Estilos para los encabezados h1 */
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+/* Estilos para los botones */
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s, transform 0.2s ease;
+}
+
+/* Efecto hover para los botones */
+button:hover {
+  border-color: #646cff;
+  transform: scale(1.05);
+}
+
+/* Efecto focus para los botones */
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* Ajustes para el tema claro */
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #1C2526; /* Mantener el fondo oscuro incluso en tema claro */
+  }
+  a:hover {
+    color: #747bff;
+  }
+}
+
+/* Estilos globales */
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Contenedor de clientes */
+.client-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 40px 20px;
+  background-color: #1C2526; /* Fondo azul oscuro para contenedor de clientes */
+}
+
+/* Caja del formulario de clientes */
+.client-box {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  width: 100%;
+  transition: transform 0.3s ease;
+  margin-bottom: 40px;
+}
+
+/* Efecto hover para la caja de clientes */
+.client-box:hover {
+  transform: translateY(-5px);
+}
+
+/* Lista de clientes */
+.client-list {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  width: 100%;
+}
+
+/* Estilos para la tabla */
+.table {
+  margin-bottom: 0;
+}
+
+/* Encabezados de la tabla */
+.table thead th {
+  background-color: #646cff;
+  color: #ffffff;
+  border: none;
+}
+
+/* Filas alternadas de la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(100, 108, 255, 0.05);
+}
+
+/* Efecto hover para las filas de la tabla */
+.table-hover tbody tr:hover {
+  background-color: rgba(100, 108, 255, 0.1);
+  cursor: pointer;
+}
+
+/* Transición para las sombras */
+.transition-shadow {
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+/* Efecto hover para las transiciones de sombra */
+.transition-shadow:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+
+/* Ajuste de altura para las tarjetas */
+.card {
+  min-height: 150px;
+}
+
+/* Fondo oscuro */
+.bg-dark {
+  background-color: #1c2526 !important;
+}
+
+/* Ajustes responsivos para pantallas pequeñas */
+@media (max-width: 768px) {
+  .client-box {
+    padding: 20px;
+    max-width: 100%;
+  }
+
+  .client-list {
+    padding: 20px;
+  }
+
+  .card {
+    min-height: 120px;
+  }
+  .card-body i {
+    font-size: 2rem !important;
+  }
+  .card-title {
+    font-size: 1rem;
+  }
+}
+
+/* Centrar y estilizar los modales */
+.modal-dialog {
+  max-width: 500px;
+  margin: 1.75rem auto;
+}
+
+/* Estilo para los modales */
+.modal-content.client-box {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+}
+
+/* Estilo para la tabla del carrito */
+.table-responsive {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+/* Alineación vertical para las celdas de la tabla */
+.table th, .table td {
+  vertical-align: middle;
+}
+
+/* Estilo para los inputs de tipo número */
+input[type="number"] {
+  max-width: 80px;
+}
+
+/* Alineación de los botones dentro de las tarjetas */
+.card-body .btn {
+  align-self: center;
+}
+
+/* Animación de giro (movida desde Navbar.jsx) */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Efecto para los enlaces de la barra de navegación */
+.hover-bg {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  color: #FFFFFF !important; /* Blanco por defecto */
+  font-size: 1.1rem;
+  padding: 0.8rem 1.2rem;
+  border-radius: 5px;
+}
+
+.hover-bg i {
+  color: #FFD700 !important; /* Íconos en amarillo dorado */
+}
+
+/* Efecto hover para los enlaces de la barra de navegación */
+.hover-bg:hover {
+  background-color: rgba(255, 215, 0, 0.1); /* Fondo translúcido amarillo */
+  color: #FFD700 !important; /* Amarillo dorado al hacer hover */
+}
+
+/* Efecto para el logo */
+.logo-hover {
+  transition: color 0.3s ease, transform 0.3s ease;
+  color: #FFD700 !important; /* Amarillo dorado por defecto */
+  font-weight: 600;
+  font-size: 1.8rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+/* Efecto hover para el logo */
+.logo-hover:hover {
+  color: #FFFFFF !important; /* Blanco al hacer hover */
+  transform: scale(1.05);
+}
+
+/* Animación para el ícono del logo */
+.logo-icon {
+  animation: spin 4s infinite linear; /* Animación de giro */
+  transition: transform 0.3s ease;
+}
+
+/* Efecto hover para el ícono del logo */
+.logo-hover:hover .logo-icon {
+  transform: rotate(45deg);
+}
+

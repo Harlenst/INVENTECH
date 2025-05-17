@@ -1,0 +1,1728 @@
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-25T22:58:14.663Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-25T22:58:14.666Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-25T22:58:15.186Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-25T22:58:15.226Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-25T22:58:19.827Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Ba6svQ1U.js","timestamp":"2025-04-25T22:58:19.854Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CpLX8-Zy.css","timestamp":"2025-04-25T22:58:19.862Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-25T22:58:20.002Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-25T22:58:22.161Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-25T22:58:22.307Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-25T22:58:24.777Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-menu","timestamp":"2025-04-25T22:58:35.698Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Ba6svQ1U.js","timestamp":"2025-04-25T22:58:35.722Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CpLX8-Zy.css","timestamp":"2025-04-25T22:58:35.725Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-25T22:58:35.772Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-25T22:58:35.797Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-25T22:58:44.374Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-25T22:58:44.389Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-25T22:58:46.413Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CpLX8-Zy.css","timestamp":"2025-04-25T23:00:07.344Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-25T23:01:28.206Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-25T23:02:59.705Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-25T23:02:59.709Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-25T23:03:00.107Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-25T23:03:00.136Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-menu","timestamp":"2025-04-25T23:03:08.191Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-dlGoso-Y.js","timestamp":"2025-04-25T23:03:08.234Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-25T23:03:08.239Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-25T23:03:08.360Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-25T23:03:23.654Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-25T23:03:23.660Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T00:33:28.898Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T00:33:28.988Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T00:42:50.509Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T00:42:59.296Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T00:42:59.299Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T00:42:59.626Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T00:42:59.654Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T00:43:09.681Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BFzhRXFS.js","timestamp":"2025-04-26T00:43:09.703Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T00:43:09.707Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T00:43:09.809Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T00:43:12.490Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T00:43:12.568Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-26T00:43:16.234Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T00:43:21.600Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T00:43:21.605Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T00:43:26.319Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T00:43:26.390Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-26T00:43:27.280Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-26T00:43:56.997Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T00:46:29.954Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T00:50:08.130Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T00:50:08.134Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T00:50:08.437Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T00:50:08.458Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T00:50:13.405Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DmFpTVma.js","timestamp":"2025-04-26T00:50:13.421Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T00:50:13.425Z"}
+{"level":"info","message":"Solicitud recibida: GET /pages/login.html","timestamp":"2025-04-26T00:50:20.158Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DmFpTVma.js","timestamp":"2025-04-26T00:50:20.211Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T00:50:20.213Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T00:50:24.918Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DmFpTVma.js","timestamp":"2025-04-26T00:50:24.931Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T00:50:24.932Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T00:50:29.296Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T01:30:42.258Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T03:19:39.162Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T03:19:39.166Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T03:19:39.464Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T03:19:39.486Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T03:19:44.397Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DsTNBvkf.js","timestamp":"2025-04-26T03:19:44.413Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T03:19:44.417Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T03:20:01.736Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T03:30:11.714Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T03:41:19.706Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T03:41:19.710Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T03:41:20.102Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T03:41:20.127Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T03:41:24.325Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Bd-lP7Jd.js","timestamp":"2025-04-26T03:41:24.342Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T03:41:24.345Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T03:41:24.440Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T03:41:30.673Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T03:41:30.772Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-26T03:41:33.301Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T14:27:36.790Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T14:27:36.794Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T14:27:37.405Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T14:27:37.446Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T14:27:40.750Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Bd-lP7Jd.js","timestamp":"2025-04-26T14:27:40.771Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T14:27:40.775Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:27:40.907Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T14:27:48.359Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:27:48.500Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T14:36:24.467Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T14:46:07.751Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T14:46:07.755Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T14:46:08.095Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T14:46:08.123Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T14:46:14.760Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CaL8PeLJ.js","timestamp":"2025-04-26T14:46:14.780Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T14:46:14.785Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:46:14.908Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T14:46:17.678Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:46:17.802Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:46:32.820Z"}
+{"level":"info","message":"Solicitud recibida: GET /img/default.png","timestamp":"2025-04-26T14:46:32.839Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T14:47:41.176Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T14:49:59.065Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T14:50:08.275Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T14:50:08.279Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T14:50:08.607Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T14:50:08.643Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T14:50:16.802Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DIn61eMD.js","timestamp":"2025-04-26T14:50:16.830Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T14:50:16.836Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:50:16.954Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T14:50:19.234Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T14:50:19.335Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T15:57:51.736Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T15:58:02.943Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T15:58:02.946Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T15:58:03.329Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T15:58:03.365Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T15:58:08.550Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:58:08.566Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:58:08.570Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:58:08.670Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:58:08.677Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T15:58:10.957Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:58:11.078Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-26T15:58:15.651Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T15:58:21.834Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:58:21.911Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-26T15:58:25.465Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-26T15:58:25.500Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-26T15:58:25.509Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-26T15:58:25.525Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T15:58:31.061Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:58:42.270Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:58:42.279Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:58:42.284Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:58:42.288Z"}
+{"level":"info","message":"Solicitud recibida: GET /inventory-overview","timestamp":"2025-04-26T15:58:46.391Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:58:46.409Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:58:46.410Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:58:46.444Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:58:46.449Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:58:46.465Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T15:58:46.469Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:02.976Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:02.982Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:02.986Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:02.990Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:04.596Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:04.614Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:04.615Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:04.641Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:04.645Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:04.658Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:04.665Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:04.671Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:04.675Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:04.678Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:05.250Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:05.269Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:05.269Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:05.292Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:05.296Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:05.307Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:05.314Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:05.320Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:05.324Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:05.328Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:05.591Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:05.608Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:05.608Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:05.632Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:05.636Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:05.646Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:05.651Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:05.659Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:05.663Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:05.666Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:05.785Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:05.802Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:05.802Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:05.823Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:05.827Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:05.839Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:05.845Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:05.851Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:05.855Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:05.858Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:05.968Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:05.981Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:05.982Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.002Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.006Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:06.014Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:06.017Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:06.023Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:06.027Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:06.030Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:06.202Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:06.214Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:06.215Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.236Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.240Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:06.249Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:06.252Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:06.257Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:06.261Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:06.264Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:06.424Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:06.437Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:06.439Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.460Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.463Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:06.472Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:06.475Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:06.480Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:06.485Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:06.488Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:06.653Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:06.665Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:06.666Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.688Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.691Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:06.701Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:06.708Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:06.715Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:06.719Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:06.722Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:06.810Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:06.823Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:06.824Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.845Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:06.848Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:06.856Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T15:59:06.863Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T15:59:06.868Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T15:59:06.872Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T15:59:06.875Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:08.997Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-04-26T15:59:10.728Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T15:59:10.746Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T15:59:10.748Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:10.844Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T15:59:10.846Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:10.916Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T15:59:10.931Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:12.235Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:12.355Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:12.797Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:12.904Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:13.116Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:13.220Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:13.356Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:13.460Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:13.774Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:13.876Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:14.022Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:14.144Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:14.198Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:14.303Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:14.431Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:14.534Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:16.329Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:16.447Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:16.522Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:16.648Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:16.743Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:16.849Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:16.945Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:17.051Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:17.113Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:17.222Z"}
+{"level":"info","message":"Solicitud recibida: GET /login","timestamp":"2025-04-26T15:59:17.312Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:17.417Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T15:59:22.024Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:22.156Z"}
+{"level":"info","message":"Solicitud recibida: GET /pages/login.html","timestamp":"2025-04-26T15:59:26.845Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-04-26T15:59:26.967Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T16:05:34.037Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T16:05:55.535Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T16:05:55.538Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T16:05:55.825Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T16:05:55.847Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T16:06:01.175Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Dl6eNzQm.js","timestamp":"2025-04-26T16:06:01.191Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T16:06:01.195Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T16:06:01.774Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T16:06:03.234Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T16:06:03.332Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T16:06:07.549Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T16:06:08.436Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-04-26T16:06:08.443Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T16:06:08.447Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T16:06:08.451Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T16:06:11.317Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T16:10:23.708Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T16:10:27.423Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T16:10:27.426Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T16:10:27.761Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T16:10:27.797Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T16:10:43.054Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T17:32:11.102Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T17:32:11.105Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T17:32:11.497Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T17:32:11.527Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T17:32:16.928Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DTp640ZU.js","timestamp":"2025-04-26T17:32:16.961Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T17:32:16.967Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:32:17.124Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:32:17.133Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T17:32:21.479Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:32:21.613Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T17:32:23.336Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-04-26T17:32:23.359Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T17:32:23.365Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T17:32:23.371Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T17:32:26.225Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:32:26.321Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T17:32:33.365Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:32:50.041Z"}
+{"level":"info","message":"Solicitud recibida: GET /img/default.png","timestamp":"2025-04-26T17:32:50.054Z"}
+{"level":"info","message":"Solicitud recibida: PUT /api/user/update","timestamp":"2025-04-26T17:32:58.044Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-04-26T17:32:58.078Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-26T17:33:11.074Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-26T17:33:11.090Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-26T17:33:11.104Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-26T17:33:11.113Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T17:33:16.782Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T17:33:32.883Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-04-26T17:33:32.893Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T17:33:32.900Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T17:33:32.905Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T17:34:04.642Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:34:04.717Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T17:34:08.690Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-26T17:34:11.704Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-26T17:34:11.712Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-26T17:34:11.721Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-26T17:34:11.731Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T17:34:24.962Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:34:25.035Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases?usuario_id=2","timestamp":"2025-04-26T17:34:31.699Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario 2","timestamp":"2025-04-26T17:34:31.716Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T17:34:31.723Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T17:34:31.727Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T17:34:34.702Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:34:34.804Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:34:37.497Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules?usuario_id=2","timestamp":"2025-04-26T17:34:37.582Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-26T17:34:37.591Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances?usuario_id=2","timestamp":"2025-04-26T17:34:37.601Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-26T17:34:37.612Z"}
+{"level":"info","message":"Solicitud recibida: GET /employee-menu","timestamp":"2025-04-26T17:34:46.978Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DTp640ZU.js","timestamp":"2025-04-26T17:34:47.008Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T17:34:47.009Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:34:47.101Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:34:47.106Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-04-26T17:34:47.180Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T17:37:38.694Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:37:38.796Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-26T17:37:41.700Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-26T17:37:41.708Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-26T17:37:41.719Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-26T17:37:41.732Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T17:37:43.138Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T17:37:49.103Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-04-26T17:37:49.117Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-04-26T19:17:22.129Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-26T19:17:32.167Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-26T19:17:32.171Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-26T19:17:32.528Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-26T19:17:32.557Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-26T19:17:37.442Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C16BAGOR.js","timestamp":"2025-04-26T19:17:37.461Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-26T19:17:37.466Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T19:17:37.571Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T19:17:37.580Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T19:17:41.086Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T19:17:41.215Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-26T19:17:43.294Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-26T19:17:47.427Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-26T19:17:47.441Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-26T19:17:47.451Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-26T19:17:47.466Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-26T19:17:49.500Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-26T19:17:50.527Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-04-26T19:17:50.536Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-26T19:17:50.543Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-26T19:17:50.546Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-26T19:17:51.751Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T19:17:51.850Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-26T19:17:53.172Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-04-26T19:17:53.182Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-04-27T00:58:53.575Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-04-27T00:58:53.578Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-04-27T00:58:54.083Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-04-27T00:58:54.135Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-27T01:00:25.920Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C16BAGOR.js","timestamp":"2025-04-27T01:00:25.937Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-27T01:00:25.940Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-27T01:00:26.034Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-27T01:00:26.043Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-04-27T01:00:29.371Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C16BAGOR.js","timestamp":"2025-04-27T01:00:29.384Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-04-27T01:00:29.385Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-27T01:00:33.941Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-27T01:00:34.067Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-27T01:00:44.709Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-27T01:00:46.232Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-04-27T01:00:46.244Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-27T01:00:46.248Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-27T01:00:46.251Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-27T01:00:48.466Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-27T01:00:48.544Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-27T02:20:47.692Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-27T02:20:47.760Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-04-27T02:20:49.916Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-04-27T02:20:49.928Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-27T02:20:49.941Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-27T02:20:49.959Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-27T02:20:52.288Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-04-27T02:20:53.516Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-04-27T02:20:53.526Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-04-27T02:20:53.532Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-04-27T02:20:53.536Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-04-27T02:20:55.408Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-04-27T02:20:55.507Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-04-27T02:21:03.821Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-04-27T02:21:05.763Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-04-27T02:21:05.774Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-27T02:21:11.418Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745430141746.jpeg","timestamp":"2025-04-27T02:21:11.435Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454074160.jpg","timestamp":"2025-04-27T02:21:11.437Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454153033.jpeg","timestamp":"2025-04-27T02:21:11.438Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-04-27T02:21:17.745Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-01T14:21:56.406Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-01T14:21:56.409Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-01T14:21:56.923Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-01T14:21:57.046Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-01T14:22:03.785Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C16BAGOR.js","timestamp":"2025-05-01T14:22:03.807Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-05-01T14:22:03.809Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:22:04.059Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:22:04.065Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-01T14:22:10.977Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:22:11.128Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-01T14:22:24.349Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-05-01T14:26:11.301Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-01T14:42:48.741Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-01T14:52:14.261Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-01T14:52:14.264Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-01T14:52:14.541Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-01T14:52:14.563Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-01T14:52:21.213Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DUqbM3OI.js","timestamp":"2025-05-01T14:52:21.228Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C2ubGdVw.css","timestamp":"2025-05-01T14:52:21.230Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:52:21.316Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:52:21.331Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-01T14:52:25.150Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:52:25.241Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-01T14:54:12.668Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:54:12.747Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-01T14:54:14.607Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-01T14:54:18.317Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-01T14:54:18.321Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-01T14:54:19.595Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T14:54:19.673Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-01T17:10:10.071Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-01T17:43:49.514Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-01T17:43:49.517Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-01T17:43:49.857Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-01T17:43:49.881Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-01T17:43:54.727Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CjCnZzxQ.js","timestamp":"2025-05-01T17:43:54.746Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-01T17:43:54.750Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T17:43:54.841Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T17:43:54.849Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-01T17:43:57.432Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-01T17:43:57.528Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-01T17:44:08.924Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-01T17:44:15.446Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T14:24:16.583Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T14:24:16.586Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T14:24:17.048Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T14:24:17.086Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T14:24:20.837Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CjCnZzxQ.js","timestamp":"2025-05-02T14:24:20.855Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:24:20.857Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:24:21.121Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:24:21.127Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:24:23.310Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:24:23.424Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T14:34:31.738Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T14:34:40.751Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T14:34:40.754Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T14:34:41.050Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T14:34:41.072Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T14:35:16.653Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:35:16.669Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:35:16.671Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:16.765Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:16.780Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:35:18.752Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:18.841Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:35:34.457Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T14:35:34.470Z"}
+{"level":"info","message":"Solicitud recibida: GET /users-list","timestamp":"2025-05-02T14:35:51.369Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:35:51.389Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:35:51.390Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:51.457Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:51.461Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T14:35:51.513Z"}
+{"level":"info","message":"Solicitud recibida: GET /role-assignment","timestamp":"2025-05-02T14:35:58.751Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:35:58.771Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:35:58.772Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:58.800Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:35:58.805Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T14:35:58.824Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-register","timestamp":"2025-05-02T14:36:03.011Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:36:03.029Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:36:03.030Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:36:03.053Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:36:03.057Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T14:36:04.841Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T14:36:04.845Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:37:30.292Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T14:37:30.333Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:37:34.783Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:34.872Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:37:39.368Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:39.435Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:37:42.001Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:42.082Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-register","timestamp":"2025-05-02T14:37:47.702Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T14:37:47.730Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:37:47.737Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:37:47.738Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:47.849Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:47.853Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T14:37:48.985Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T14:37:48.988Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:37:50.328Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:50.393Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-list","timestamp":"2025-05-02T14:37:52.585Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T14:37:52.620Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:37:52.626Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:37:52.628Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:52.743Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:52.748Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T14:37:52.823Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T14:37:52.827Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T14:37:54.620Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:54.707Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-list","timestamp":"2025-05-02T14:37:56.841Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T14:37:56.877Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-PrH3t9oX.js","timestamp":"2025-05-02T14:37:56.883Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T14:37:56.886Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:56.996Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T14:37:57.000Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T14:37:57.070Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T14:37:57.073Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:23:33.269Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:23:33.350Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T15:30:19.508Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T15:30:29.200Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T15:30:29.203Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T15:30:29.506Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T15:30:29.527Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T15:30:33.686Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:30:33.703Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:30:33.707Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:33.797Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:33.814Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:30:35.717Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:35.808Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T15:30:39.421Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T15:30:40.828Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-05-02T15:30:40.858Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T15:30:40.862Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T15:30:40.865Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:30:42.554Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:42.634Z"}
+{"level":"info","message":"Solicitud recibida: GET /role-assignment","timestamp":"2025-05-02T15:30:46.392Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:30:46.416Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:30:46.417Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:46.453Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:46.459Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T15:30:46.477Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T15:30:46.484Z"}
+{"level":"info","message":"Solicitud recibida: GET /users-list","timestamp":"2025-05-02T15:30:50.339Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:30:50.364Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:30:50.365Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:50.391Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:50.396Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T15:30:50.411Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T15:30:50.415Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-register","timestamp":"2025-05-02T15:30:53.248Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:30:53.269Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:30:53.270Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:53.294Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:53.299Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T15:30:55.458Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T15:30:55.460Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-02T15:30:55.470Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-02","timestamp":"2025-05-02T15:30:55.478Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:30:56.825Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:56.892Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-list","timestamp":"2025-05-02T15:30:59.666Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:30:59.696Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:30:59.697Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:59.722Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:30:59.728Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T15:30:59.742Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T15:30:59.744Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-02T15:30:59.752Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-02","timestamp":"2025-05-02T15:30:59.758Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:31:01.243Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:01.322Z"}
+{"level":"info","message":"Solicitud recibida: GET /product-register","timestamp":"2025-05-02T15:31:03.491Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:03.514Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:03.515Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:03.542Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:03.546Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T15:31:05.729Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products/low-stock","timestamp":"2025-05-02T15:31:05.736Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-02T15:31:05.742Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745430141746.jpeg","timestamp":"2025-05-02T15:31:05.743Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454074160.jpg","timestamp":"2025-05-02T15:31:05.745Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454153033.jpeg","timestamp":"2025-05-02T15:31:05.745Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-stats","timestamp":"2025-05-02T15:31:15.525Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:15.547Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:15.548Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:15.572Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:15.580Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T15:31:15.611Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T15:31:15.637Z"}
+{"level":"info","message":"Solicitud recibida: GET /dashboard","timestamp":"2025-05-02T15:31:18.702Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:18.726Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:18.727Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:18.752Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:18.756Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T15:31:18.774Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T15:31:18.789Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T15:31:18.792Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T15:31:18.797Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T15:31:18.801Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T15:31:18.808Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-attendance","timestamp":"2025-05-02T15:31:23.875Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:23.899Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:23.901Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:23.928Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:23.933Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T15:31:23.951Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T15:31:23.956Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-extra-hours","timestamp":"2025-05-02T15:31:27.228Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:27.251Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:27.253Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:27.279Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:27.284Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance/admin/extra-hours?","timestamp":"2025-05-02T15:31:27.300Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T15:31:27.301Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /?","timestamp":"2025-05-02T15:31:27.306Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T15:31:27.311Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T15:31:37.359Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T15:31:39.595Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-05-02T15:31:39.603Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T15:31:39.607Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T15:31:39.609Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:31:41.059Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:41.138Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-02T15:31:43.063Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-02","timestamp":"2025-05-02T15:31:43.069Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:31:47.719Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:47.797Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases?usuario_id=2","timestamp":"2025-05-02T15:31:50.572Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario 2","timestamp":"2025-05-02T15:31:50.580Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T15:31:50.584Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T15:31:50.586Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:31:52.656Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:52.736Z"}
+{"level":"info","message":"Solicitud recibida: GET /attendance-history","timestamp":"2025-05-02T15:31:56.172Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:56.198Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:56.199Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:56.227Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:56.232Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance","timestamp":"2025-05-02T15:31:56.249Z"}
+{"level":"info","message":"Historial de asistencia obtenido para usuario 2","timestamp":"2025-05-02T15:31:56.255Z"}
+{"level":"info","message":"Solicitud recibida: GET /extra-hours","timestamp":"2025-05-02T15:31:59.813Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DXVM3Xoo.js","timestamp":"2025-05-02T15:31:59.837Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T15:31:59.837Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:59.862Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T15:31:59.864Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:32:01.044Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:32:02.115Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T15:32:06.902Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T16:37:33.457Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T16:37:33.546Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases?usuario_id=2","timestamp":"2025-05-02T16:37:36.424Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario 2","timestamp":"2025-05-02T16:37:36.432Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T16:37:36.436Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T16:37:36.439Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T16:37:45.341Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T16:37:45.359Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T18:24:10.656Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T18:31:36.376Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T18:31:36.379Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T18:31:36.690Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T18:31:36.713Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T18:31:43.567Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:31:43.582Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:31:43.586Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:31:45.479Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:45.570Z"}
+{"level":"info","message":"Solicitud recibida: GET /product-list","timestamp":"2025-05-02T18:31:52.739Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:31:52.768Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:31:52.769Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:52.804Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:52.812Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:31:52.825Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745430141746.jpeg","timestamp":"2025-05-02T18:31:52.838Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454074160.jpg","timestamp":"2025-05-02T18:31:52.839Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454153033.jpeg","timestamp":"2025-05-02T18:31:52.840Z"}
+{"level":"info","message":"Solicitud recibida: GET /inventory-overview","timestamp":"2025-05-02T18:31:56.679Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:31:56.710Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:31:56.711Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:56.743Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:56.749Z"}
+{"level":"info","message":"Solicitud recibida: GET /inventory-overview","timestamp":"2025-05-02T18:31:58.836Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:31:58.857Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:31:58.858Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:58.881Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:31:58.886Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases?usuario_id=2","timestamp":"2025-05-02T18:32:01.717Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario 2","timestamp":"2025-05-02T18:32:01.725Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:32:01.729Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T18:32:01.731Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:32:06.293Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-02T18:32:06.329Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:32:13.408Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:32:13.486Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:32:14.803Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-05-02T18:32:14.810Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:32:14.815Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T18:32:14.817Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:32:16.424Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:32:16.491Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-stats","timestamp":"2025-05-02T18:32:19.839Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:32:19.861Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:32:19.863Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:32:19.924Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:32:19.928Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:32:19.980Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T18:32:19.987Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:32:21.906Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T18:32:24.653Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T18:32:24.657Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T18:32:24.662Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T18:32:24.666Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:32:24.670Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T18:32:24.677Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:32:30.469Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T18:32:45.819Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:32:45.833Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:32:45.835Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:32:45.919Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:32:45.923Z"}
+{"level":"info","message":"Solicitud recibida: GET /purchase-history","timestamp":"2025-05-02T18:33:06.837Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jfVZK7zK.js","timestamp":"2025-05-02T18:33:06.863Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:33:06.865Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:33:06.890Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:33:06.895Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:33:06.913Z"}
+{"level":"info","message":"Compras obtenidas exitosamente para usuario todos","timestamp":"2025-05-02T18:33:06.920Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:33:06.924Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T18:33:06.927Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T18:43:33.989Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T18:43:58.343Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T18:43:58.347Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T18:43:58.640Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T18:43:58.663Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T18:44:09.746Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BBvrHSgT.js","timestamp":"2025-05-02T18:44:09.760Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:44:09.764Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:44:12.163Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:44:12.254Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:44:14.322Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:44:14.327Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:44:14.332Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T18:44:14.335Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-register","timestamp":"2025-05-02T18:44:30.509Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BBvrHSgT.js","timestamp":"2025-05-02T18:44:30.534Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:44:30.536Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:44:30.572Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:44:30.578Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:44:31.657Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T18:44:31.660Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-02T18:44:31.672Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-02","timestamp":"2025-05-02T18:44:31.679Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:44:32.991Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:44:33.068Z"}
+{"level":"info","message":"Solicitud recibida: GET /client-list","timestamp":"2025-05-02T18:44:35.216Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BBvrHSgT.js","timestamp":"2025-05-02T18:44:35.242Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:44:35.243Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:44:35.269Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:44:35.275Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:44:35.292Z"}
+{"level":"error","message":"Token inválido:","timestamp":"2025-05-02T18:44:35.295Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-02T18:44:35.303Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-02","timestamp":"2025-05-02T18:44:35.314Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T18:48:31.053Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T18:48:44.196Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T18:48:44.199Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T18:48:44.521Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T18:48:44.547Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/login","timestamp":"2025-05-02T18:52:10.514Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:52:10.519Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:10.624Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:10.627Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:52:13.656Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:52:13.660Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:52:13.666Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:13.671Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:52:13.672Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:13.677Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:13.681Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:13.685Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:15.442Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:15.452Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:18.893Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:18.900Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:52:20.820Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:52:20.823Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:52:20.827Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:20.830Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:52:20.831Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:20.834Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:20.839Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:20.841Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:23.001Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:23.008Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:26.195Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:26.197Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:26.198Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:26.199Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:26.200Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:26.204Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:26.209Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:26.213Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:52:26.222Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:52:26.227Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:52:26.230Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:52:26.235Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:52:26.239Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:52:26.242Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:30.139Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:30.143Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:30.147Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:30.152Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/users","timestamp":"2025-05-02T18:52:30.170Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/users","timestamp":"2025-05-02T18:52:30.171Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:52:30.173Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:52:30.176Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:52:30.178Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:52:30.182Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:52:30.184Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:52:30.187Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:33.298Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:33.299Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:33.300Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:33.302Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:33.303Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:33.308Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:33.315Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:33.322Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/clients","timestamp":"2025-05-02T18:52:34.618Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/clients","timestamp":"2025-05-02T18:52:34.618Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:34.620Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:34.622Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:34.623Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:34.626Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:40.300Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:40.301Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:40.302Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:40.303Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:40.305Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:40.308Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:40.313Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:40.318Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/clients","timestamp":"2025-05-02T18:52:40.325Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/clients","timestamp":"2025-05-02T18:52:40.326Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:40.328Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:40.332Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:40.333Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:40.336Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:52:40.337Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:52:40.341Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:45.909Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:45.910Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:45.912Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:52:45.912Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:45.913Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:45.918Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:45.922Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:52:45.926Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/products","timestamp":"2025-05-02T18:52:47.664Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/products","timestamp":"2025-05-02T18:52:47.665Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:47.668Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:52:47.672Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/products/low-stock","timestamp":"2025-05-02T18:52:47.675Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products/low-stock","timestamp":"2025-05-02T18:52:47.679Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-02T18:52:47.685Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745430141746.jpeg","timestamp":"2025-05-02T18:52:47.686Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454074160.jpg","timestamp":"2025-05-02T18:52:47.687Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454153033.jpeg","timestamp":"2025-05-02T18:52:47.688Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products/low-stock","timestamp":"2025-05-02T18:52:47.689Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-02T18:52:47.696Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:54:58.961Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:54:58.963Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:54:58.964Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:54:58.965Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:54:58.966Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:54:58.970Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:54:58.975Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:54:58.979Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:54:58.993Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T18:54:59.000Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:54:59.003Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T18:54:59.009Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:55:02.542Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:55:02.545Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:55:02.549Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:55:02.553Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T18:55:02.568Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T18:55:02.572Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T18:55:02.576Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T18:55:02.579Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T18:55:02.580Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T18:55:02.584Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T18:55:02.584Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T18:55:02.588Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T18:55:02.590Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:55:02.593Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T18:55:02.595Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T18:55:02.598Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:55:02.601Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:55:05.822Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:55:05.823Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:55:05.825Z"}
+{"level":"info","message":"Solicitud recibida: OPTIONS /api/user","timestamp":"2025-05-02T18:55:05.826Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T18:55:13.828Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T18:55:28.818Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T18:55:28.821Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T18:55:29.123Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T18:55:29.144Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T18:55:39.027Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BFt6exsa.js","timestamp":"2025-05-02T18:55:39.042Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:55:39.045Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:55:48.380Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:55:48.485Z"}
+{"level":"info","message":"Solicitud recibida: GET /dashboard","timestamp":"2025-05-02T18:57:02.376Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BFt6exsa.js","timestamp":"2025-05-02T18:57:02.403Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:57:02.404Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:02.441Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:02.446Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T18:57:02.463Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T18:57:02.467Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T18:57:02.473Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T18:57:02.478Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:57:02.481Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T18:57:02.493Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:57:06.186Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:57:06.190Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:57:06.193Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:57:06.197Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-attendance","timestamp":"2025-05-02T18:57:10.203Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BFt6exsa.js","timestamp":"2025-05-02T18:57:10.223Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:57:10.224Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:10.249Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:10.254Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:57:10.272Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:57:10.277Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-extra-hours","timestamp":"2025-05-02T18:57:14.202Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BFt6exsa.js","timestamp":"2025-05-02T18:57:14.225Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:57:14.226Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:14.254Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:14.259Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-02T18:57:14.273Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance/admin/extra-hours?","timestamp":"2025-05-02T18:57:14.274Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /?","timestamp":"2025-05-02T18:57:14.283Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-02T18:57:14.285Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance/admin/extra-hours?startDate=2025-05-02&endDate=2025-05-03&usuario_id=2","timestamp":"2025-05-02T18:57:42.838Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /?startDate=2025-05-02&endDate=2025-05-03&usuario_id=2","timestamp":"2025-05-02T18:57:42.843Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance/admin/extra-hours?startDate=2025-05-02&endDate=2025-05-03&usuario_id=2","timestamp":"2025-05-02T18:57:43.515Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /?startDate=2025-05-02&endDate=2025-05-03&usuario_id=2","timestamp":"2025-05-02T18:57:43.520Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:57:47.842Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-05-02T18:57:47.850Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T18:57:50.674Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T18:57:50.677Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T18:57:50.681Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T18:57:50.684Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T18:57:51.683Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T18:57:53.164Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T18:57:53.168Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T18:57:53.171Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T18:57:53.174Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T18:57:53.178Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T18:57:53.185Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T18:58:39.442Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T18:58:51.910Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T18:58:51.913Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T18:58:52.209Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T18:58:52.229Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T18:59:03.664Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-DEvsLJ9w.js","timestamp":"2025-05-02T18:59:03.689Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T18:59:03.691Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:59:03.755Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:59:03.775Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:59:05.601Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:59:05.693Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T18:59:10.634Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T18:59:10.714Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T19:04:07.469Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T19:04:22.925Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T19:04:22.928Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T19:04:23.222Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T19:04:23.244Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T19:04:31.330Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-De6H-Smw.js","timestamp":"2025-05-02T19:04:31.349Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T19:04:31.352Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:04:31.450Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:04:31.467Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T19:04:33.366Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:04:33.452Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:04:34.576Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:04:34.581Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:04:34.585Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:04:34.590Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:04:34.594Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:04:34.603Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:04:38.660Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:04:38.663Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:04:38.667Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:04:38.671Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:04:38.675Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:04:38.683Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:04:40.583Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:04:40.587Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:04:40.591Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:04:40.594Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:04:40.598Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:04:40.605Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:04:43.186Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:04:43.189Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:04:43.193Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:04:43.196Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:04:43.199Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:04:43.205Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:04:45.443Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:04:45.447Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:04:45.451Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:04:45.455Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:04:45.459Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:04:45.466Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:04:48.137Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:04:48.140Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:04:48.144Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:04:48.148Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:04:48.152Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:04:48.157Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T19:06:49.430Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T19:06:57.847Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T19:06:57.850Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T19:06:58.167Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T19:06:58.192Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-02T19:07:03.982Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-02T19:07:03.996Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T19:07:03.998Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:04.086Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:04.101Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-02T19:07:05.615Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:05.691Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:07.483Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-05-02T19:07:07.492Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:07:08.564Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:07:08.569Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:07:08.573Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:07:08.577Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:07:08.582Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:07:08.591Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:07:11.196Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:07:11.200Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:07:11.205Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:07:11.209Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:07:11.212Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:07:11.220Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:49.186Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-05-02T19:07:49.194Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:07:51.236Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:07:51.239Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:07:51.242Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:07:51.245Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:07:51.249Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:07:51.255Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:52.354Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:07:56.307Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:08:00.289Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:08:00.292Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:08:00.296Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:08:00.299Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:08:00.303Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:08:00.309Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T19:08:14.385Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:08:18.098Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:08:18.102Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:08:18.105Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:08:18.109Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:08:18.114Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:08:18.120Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T19:08:29.225Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-02T19:08:38.847Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-02T19:08:38.850Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-02T19:08:39.145Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-02T19:08:39.165Z"}
+{"level":"info","message":"Solicitud recibida: GET /dashboard","timestamp":"2025-05-02T19:08:44.668Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-02T19:08:44.691Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T19:08:44.692Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:44.727Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-05-02T19:08:44.744Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:44.746Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:08:44.753Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:08:44.759Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:08:44.763Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:08:44.767Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:08:44.771Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:08:44.780Z"}
+{"level":"info","message":"Solicitud recibida: GET /dashboard","timestamp":"2025-05-02T19:08:45.588Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-02T19:08:45.605Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-02T19:08:45.606Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:45.635Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:45.640Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-05-02T19:08:45.651Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:08:45.655Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:08:45.659Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:08:45.662Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:08:45.666Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:08:45.669Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:08:45.677Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:46.536Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-05-02T19:08:46.545Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:08:47.464Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:08:47.468Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:08:47.471Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:08:47.474Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:08:47.478Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:08:47.484Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T19:08:49.083Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T19:08:49.956Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T19:08:49.959Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T19:08:49.963Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T19:08:49.966Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:08:50.902Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:08:50.906Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:08:50.909Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:08:50.912Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:08:50.916Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:08:50.922Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:52.372Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-02T19:08:54.496Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-02T19:08:57.306Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-02T19:08:57.310Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-02T19:08:57.315Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-02T19:08:57.319Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:08:59.813Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:09:05.020Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:09:05.024Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:09:05.029Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:09:05.034Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:09:05.038Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:09:05.046Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-02T19:09:06.499Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-02T19:09:18.535Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-02T19:09:18.540Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-02T19:09:18.546Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-02T19:09:18.550Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-02T19:09:18.553Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-02T19:09:18.559Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-02T19:59:34.119Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-16T19:57:25.960Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-16T19:57:25.963Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-16T19:57:26.262Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-16T19:57:26.304Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-16T19:57:41.017Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-16T19:57:41.035Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T19:57:41.038Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T19:57:41.613Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T19:57:41.625Z"}
+{"level":"info","message":"Solicitud recibida: GET /vite.svg","timestamp":"2025-05-16T19:57:42.640Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T19:57:43.853Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T19:57:43.987Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T19:57:48.277Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-05-16T19:57:48.288Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-16T19:58:00.212Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-16T19:58:00.231Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-16T19:58:00.234Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-16T19:58:00.249Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-16T19:58:00.253Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-16T19:58:00.288Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-16T19:58:02.459Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases","timestamp":"2025-05-16T19:58:03.535Z"}
+{"level":"info","message":"Historial de compras obtenido para usuario 1","timestamp":"2025-05-16T19:58:03.539Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-16T19:58:03.542Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-16T19:58:03.557Z"}
+{"level":"info","message":"Solicitud recibida: GET /users-list","timestamp":"2025-05-16T19:58:12.537Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-16T19:58:12.561Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T19:58:12.562Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T19:58:12.595Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T19:58:12.600Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T19:58:12.617Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T19:58:12.623Z"}
+{"level":"info","message":"Solicitud recibida: GET /admin-stats","timestamp":"2025-05-16T20:05:09.621Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-16T20:05:09.644Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T20:05:09.644Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:05:09.669Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:05:09.674Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-16T20:05:09.692Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-16T20:05:09.700Z"}
+{"level":"info","message":"Solicitud recibida: GET /dashboard","timestamp":"2025-05-16T20:05:12.307Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BqhaYjMm.js","timestamp":"2025-05-16T20:05:12.331Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T20:05:12.332Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:05:12.362Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:05:12.368Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-16T20:05:12.387Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-16T20:05:12.391Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-16T20:05:12.395Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-16T20:05:12.399Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-16T20:05:12.402Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-16T20:05:12.409Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-16T20:15:39.262Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-16T20:15:40.703Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-16T20:15:40.706Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-16T20:15:40.994Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-16T20:15:41.014Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-16T20:15:46.854Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-16T20:16:04.707Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-16T20:16:04.710Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-16T20:16:05.008Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-16T20:16:05.032Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-16T20:16:24.319Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CKB41hZB.js","timestamp":"2025-05-16T20:16:24.351Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T20:16:24.354Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:16:24.428Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:16:24.447Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T20:16:26.221Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:16:26.298Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/inventory/alerts","timestamp":"2025-05-16T20:16:44.970Z"}
+{"level":"info","message":"Alertas de inventario obtenidas por admin 1","timestamp":"2025-05-16T20:16:44.980Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/settings","timestamp":"2025-05-16T20:16:49.789Z"}
+{"level":"info","message":"Configuraciones obtenidas por admin 1","timestamp":"2025-05-16T20:16:49.812Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T20:16:59.972Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T20:16:59.977Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T20:17:11.453Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T20:17:11.456Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-16T20:17:17.527Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-16T20:17:17.532Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T20:17:22.679Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T20:17:22.683Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T20:17:37.096Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T20:17:37.100Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-16T20:17:43.414Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-16","timestamp":"2025-05-16T20:17:43.431Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T20:17:47.433Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:17:47.512Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T20:18:13.527Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:18:13.608Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T20:18:16.952Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T20:18:16.956Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-16T20:18:25.669Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-16T20:18:25.690Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/export-reports","timestamp":"2025-05-16T20:18:29.134Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-05-16T20:18:29.220Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-16T20:18:38.292Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-16T20:18:38.300Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/export-reports","timestamp":"2025-05-16T20:18:39.473Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-05-16T20:18:39.505Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-16T20:18:50.045Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 1 en fecha 2025-05-16","timestamp":"2025-05-16T20:18:50.051Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T20:18:53.319Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T20:18:53.397Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T23:04:06.939Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:04:07.016Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-16T23:04:13.006Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-16T23:04:13.012Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:20.507Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:20.511Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:25.542Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:25.546Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:28.611Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:28.614Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:31.912Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:31.916Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:34.650Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:34.653Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:36.275Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:36.278Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:38.474Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:38.478Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-16T23:04:41.324Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-16T23:04:41.329Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:04:42.308Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:04:42.312Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:11:17.398Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:11:17.402Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:11:21.927Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:11:21.931Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-16T23:31:22.132Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-16T23:31:32.106Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-16T23:31:32.109Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-16T23:31:32.528Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-16T23:31:32.556Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-16T23:31:40.062Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3BY9ni_k.js","timestamp":"2025-05-16T23:31:40.078Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T23:31:40.081Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:31:40.157Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:31:40.174Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T23:31:43.279Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:31:43.364Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-16T23:31:51.139Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-16T23:31:51.144Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-16T23:31:51.147Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-16T23:31:51.152Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-16T23:31:51.157Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-16T23:31:51.179Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-16T23:51:48.880Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-16T23:51:59.263Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-16T23:51:59.267Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-16T23:51:59.563Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-16T23:51:59.583Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-16T23:52:03.630Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Ber60uVb.js","timestamp":"2025-05-16T23:52:03.658Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-16T23:52:03.661Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:52:03.737Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:52:03.753Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T23:52:05.952Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:52:06.030Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-16T23:52:10.335Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-16T23:52:10.340Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-16T23:52:10.344Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-16T23:52:10.349Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-16T23:52:10.353Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-16T23:52:10.362Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:52:11.431Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745688778050-ChatGPT_Image_Apr_14__2025__03_48_51_PM-removebg-preview.png","timestamp":"2025-05-16T23:52:11.438Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-16T23:52:13.028Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 1","timestamp":"2025-05-16T23:52:13.032Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-16T23:52:13.035Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 1","timestamp":"2025-05-16T23:52:13.038Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-16T23:52:13.042Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-16T23:52:13.049Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-16T23:52:19.805Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-16T23:52:19.873Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/settings","timestamp":"2025-05-16T23:52:36.593Z"}
+{"level":"info","message":"Configuraciones obtenidas por admin 1","timestamp":"2025-05-16T23:52:36.598Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:52:40.673Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:52:40.677Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-16T23:52:43.446Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-16T23:52:43.449Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T00:24:42.414Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T00:24:46.109Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T00:24:46.112Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T00:24:46.416Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T00:24:46.437Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T00:30:10.654Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Ber60uVb.js","timestamp":"2025-05-17T00:30:10.672Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T00:30:10.675Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T00:30:10.764Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T00:30:10.782Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T00:30:14.277Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T00:30:14.356Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T00:30:19.977Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T00:30:32.125Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T00:30:32.128Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T00:30:32.423Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T00:30:32.444Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T00:30:35.945Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-jFNPwe8Q.js","timestamp":"2025-05-17T00:30:35.964Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T00:30:35.967Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T00:30:36.065Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T00:30:36.091Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T00:30:38.267Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T00:30:38.343Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T00:31:22.638Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T01:24:45.565Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T01:24:45.568Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T01:24:46.149Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T01:24:46.194Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T01:24:51.383Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T01:24:51.424Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-SchBFMyT.js","timestamp":"2025-05-17T01:24:51.431Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T01:24:51.561Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T01:24:51.590Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T01:24:56.981Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T01:24:57.068Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T01:25:08.483Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T01:25:08.550Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T01:25:21.600Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T01:25:21.665Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T01:25:27.688Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules?usuario_id=2","timestamp":"2025-05-17T01:25:27.741Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 2","timestamp":"2025-05-17T01:25:27.747Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/schedules","timestamp":"2025-05-17T01:25:27.750Z"}
+{"level":"info","message":"Horarios obtenidos para usuario 2","timestamp":"2025-05-17T01:25:27.754Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances?usuario_id=2","timestamp":"2025-05-17T01:25:27.757Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 2","timestamp":"2025-05-17T01:25:27.762Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendances","timestamp":"2025-05-17T01:25:27.765Z"}
+{"level":"info","message":"Asistencias obtenidas para usuario 2","timestamp":"2025-05-17T01:25:27.768Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:20:54.779Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:20:54.782Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:20:55.282Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:20:55.350Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:20:59.257Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:20:59.302Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-SchBFMyT.js","timestamp":"2025-05-17T15:20:59.310Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:20:59.440Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:20:59.448Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:21:01.673Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:21:01.797Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/attendance/exit","timestamp":"2025-05-17T15:21:04.826Z"}
+{"level":"warn","message":"No se encontró entrada para usuario 2 en fecha 2025-05-17","timestamp":"2025-05-17T15:21:04.841Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:21:07.872Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:21:07.939Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:24:42.011Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:25:16.037Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:25:16.040Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:25:16.342Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:25:16.363Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:25:21.249Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:25:21.296Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-D4sdUmiP.js","timestamp":"2025-05-17T15:25:21.302Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:25:21.389Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:25:21.408Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:25:23.348Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:25:23.434Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:37:05.768Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:37:14.369Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:37:14.373Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:37:14.681Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:37:14.703Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:37:23.232Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BPrKPHPp.js","timestamp":"2025-05-17T15:37:23.281Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:37:23.282Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:37:23.353Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:37:23.370Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:37:25.832Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:37:25.920Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T15:37:35.253Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T15:37:35.260Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T15:37:41.867Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T15:37:41.871Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-17T15:37:52.236Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-17T15:37:52.243Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products","timestamp":"2025-05-17T15:38:03.789Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/products/low-stock","timestamp":"2025-05-17T15:38:03.798Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T15:38:03.806Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745430141746.jpeg","timestamp":"2025-05-17T15:38:03.807Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454074160.jpg","timestamp":"2025-05-17T15:38:03.808Z"}
+{"level":"info","message":"Solicitud recibida: GET /uploads/1745454153033.jpeg","timestamp":"2025-05-17T15:38:03.809Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:38:14.631Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-17T15:38:14.634Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-17T15:38:51.421Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-17T15:38:51.449Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:38:55.364Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:38:55.374Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:40:24.110Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:40:24.118Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/stats","timestamp":"2025-05-17T15:40:31.811Z"}
+{"level":"info","message":"Estadísticas de compras obtenidas por admin","timestamp":"2025-05-17T15:40:31.818Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T15:41:08.236Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance/admin/extra-hours?","timestamp":"2025-05-17T15:41:08.239Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /?","timestamp":"2025-05-17T15:41:08.245Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T15:41:08.246Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T15:41:11.815Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T15:41:11.818Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/pending","timestamp":"2025-05-17T15:41:15.761Z"}
+{"level":"info","message":"Compras pendientes obtenidas por admin 1","timestamp":"2025-05-17T15:41:15.769Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/returns","timestamp":"2025-05-17T15:41:19.357Z"}
+{"level":"info","message":"Historial de devoluciones obtenido por admin 1","timestamp":"2025-05-17T15:41:19.398Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:43:19.027Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:43:23.170Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:43:23.173Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:43:23.488Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:43:23.510Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:43:28.515Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-BPrKPHPp.js","timestamp":"2025-05-17T15:43:28.534Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:43:28.536Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:43:28.608Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:43:28.623Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:43:30.239Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:43:30.321Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:43:31.942Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:43:31.953Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:43:37.541Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:44:11.346Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:44:11.349Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:44:11.645Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:44:11.665Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:44:15.424Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:44:15.469Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CNcf8pan.js","timestamp":"2025-05-17T15:44:15.472Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:44:15.547Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:44:15.563Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:44:17.693Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:44:17.774Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:44:19.764Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:44:19.774Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/export-reports","timestamp":"2025-05-17T15:44:28.134Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-05-17T15:44:28.171Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:44:33.121Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:44:33.129Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:50:00.831Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:50:09.601Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:50:09.604Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:50:09.916Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:50:09.935Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:50:14.731Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:50:14.773Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CrfJ_qN8.js","timestamp":"2025-05-17T15:50:14.775Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:50:14.849Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:50:14.869Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:50:17.195Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:50:17.276Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:50:19.704Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:50:19.716Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-17T15:50:27.774Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-17T15:50:27.778Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:55:21.381Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:55:29.901Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:55:29.904Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:55:30.219Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:55:30.241Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:55:36.755Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:55:36.778Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-B2mxghue.js","timestamp":"2025-05-17T15:55:36.799Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:55:36.869Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:55:36.885Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:55:39.689Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:55:39.772Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:55:42.146Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:55:42.157Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/export-reports","timestamp":"2025-05-17T15:55:47.395Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-05-17T15:55:47.431Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:55:57.309Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-17T15:55:57.344Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-17T15:56:51.657Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/export-reports","timestamp":"2025-05-17T15:57:15.334Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-17T15:57:15.363Z"}
+{"level":"info","message":"Solicitud recibida: GET /favicon.ico","timestamp":"2025-05-17T15:57:15.457Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T15:59:16.889Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T15:59:25.140Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T15:59:25.143Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T15:59:25.451Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T15:59:25.472Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T15:59:33.357Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T15:59:33.377Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-C6iy_nJG.js","timestamp":"2025-05-17T15:59:33.400Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:59:33.470Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:59:33.486Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T15:59:35.706Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T15:59:35.789Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T15:59:38.184Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T15:59:38.195Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/export-reports","timestamp":"2025-05-17T15:59:39.930Z"}
+{"level":"info","message":"Reportes financieros exportados a CSV por admin 1","timestamp":"2025-05-17T15:59:39.939Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/financial-reports","timestamp":"2025-05-17T16:00:00.638Z"}
+{"level":"info","message":"Reportes financieros obtenidos por admin 1","timestamp":"2025-05-17T16:00:00.646Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:00:08.606Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:00:08.615Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:00:11.814Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/attendance/admin/extra-hours?","timestamp":"2025-05-17T16:00:11.816Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /?","timestamp":"2025-05-17T16:00:11.822Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:00:11.825Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:00:14.480Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:00:14.483Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:00:17.039Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:00:17.043Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:01:41.718Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:01:41.722Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:01:52.144Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:01:52.149Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:01:53.181Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:01:53.185Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:01:55.904Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:01:55.909Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:01:56.688Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:01:56.692Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T16:03:31.912Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T16:03:43.978Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T16:03:43.981Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T16:03:44.305Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T16:03:44.327Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T16:03:49.332Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T16:03:49.360Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-CNE-iH1v.js","timestamp":"2025-05-17T16:03:49.362Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:03:49.449Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:03:49.465Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T16:03:51.597Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:03:51.682Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:03.202Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:03.208Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:04:10.219Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:04:10.227Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:10.937Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:10.941Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:11.841Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:11.846Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:14.110Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:14.114Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:17.161Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:17.165Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:19.292Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:19.295Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:04:21.042Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:04:21.047Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:04:21.563Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:04:21.566Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T16:26:54.334Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T16:26:54.338Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T16:26:54.684Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T16:26:54.706Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T16:26:59.686Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T16:26:59.707Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Bjv5NbIg.js","timestamp":"2025-05-17T16:26:59.731Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:26:59.803Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:26:59.827Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T16:27:02.236Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:27:02.322Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-17T16:27:15.499Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-17T16:27:15.505Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:27:18.874Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:27:18.881Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:27:20.788Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:27:20.795Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:27:22.379Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:27:22.384Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:27:24.453Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:27:24.461Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:27:25.193Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:27:25.197Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:27:26.042Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:27:26.048Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:27:26.771Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:27:26.775Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:27:30.501Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:27:30.509Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:27:31.463Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:27:31.468Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:27:32.458Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:27:32.467Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:27:33.194Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:27:33.198Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:27:34.702Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:27:34.708Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T16:27:36.680Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-17T16:27:36.691Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T16:33:09.410Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Bjv5NbIg.js","timestamp":"2025-05-17T16:33:09.433Z"}
+{"level":"info","message":"Solicitud recibida: GET /.well-known/appspecific/com.chrome.devtools.json","timestamp":"2025-05-17T16:33:09.436Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T16:33:09.437Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:33:09.539Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:33:09.543Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T16:33:11.483Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:33:11.552Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/clients","timestamp":"2025-05-17T16:33:17.171Z"}
+{"level":"info","message":"Lista de clientes obtenida exitosamente para admin","timestamp":"2025-05-17T16:33:17.174Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:33:22.249Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:33:22.253Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:33:31.189Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:33:31.194Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:33:33.266Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:33:33.269Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:33:52.135Z"}
+{"level":"warn","message":"Ruta API no encontrada: GET /","timestamp":"2025-05-17T16:33:52.140Z"}
+{"level":"info","message":"Pool de conexiones a MySQL cerrado","timestamp":"2025-05-17T16:40:36.925Z"}
+{"level":"info","message":"Serving uploads from:","timestamp":"2025-05-17T16:40:52.003Z"}
+{"level":"info","message":"Serving static files from:","timestamp":"2025-05-17T16:40:52.007Z"}
+{"level":"info","message":"🚀 Servidor corriendo en http://localhost:3000","timestamp":"2025-05-17T16:40:52.327Z"}
+{"level":"info","message":"Conectado a la base de datos MySQL","timestamp":"2025-05-17T16:40:52.350Z"}
+{"level":"info","message":"Solicitud recibida: GET /","timestamp":"2025-05-17T16:41:31.016Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-3Fw0B1qJ.css","timestamp":"2025-05-17T16:41:31.058Z"}
+{"level":"info","message":"Solicitud recibida: GET /index-Bjv5NbIg.js","timestamp":"2025-05-17T16:41:31.063Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:41:31.133Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:41:31.148Z"}
+{"level":"info","message":"Solicitud recibida: POST /api/login","timestamp":"2025-05-17T16:41:33.434Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user","timestamp":"2025-05-17T16:41:33.512Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:41:40.295Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:41:40.300Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:41:44.751Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:41:44.757Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:41:46.393Z"}
+{"level":"warn","message":"Usuario no encontrado: ID undefined","timestamp":"2025-05-17T16:41:46.399Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:41:47.666Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:41:47.670Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:41:52.597Z"}
+{"level":"warn","message":"Usuario no encontrado: ID undefined","timestamp":"2025-05-17T16:41:52.602Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:41:53.255Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:41:53.258Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/user/undefined","timestamp":"2025-05-17T16:41:54.186Z"}
+{"level":"warn","message":"Usuario no encontrado: ID undefined","timestamp":"2025-05-17T16:41:54.190Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/users","timestamp":"2025-05-17T16:41:59.995Z"}
+{"level":"info","message":"Lista de usuarios obtenida exitosamente","timestamp":"2025-05-17T16:41:59.998Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/purchases/pending","timestamp":"2025-05-17T16:42:03.282Z"}
+{"level":"info","message":"Compras pendientes obtenidas por admin 1","timestamp":"2025-05-17T16:42:03.291Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/returns","timestamp":"2025-05-17T16:42:06.805Z"}
+{"level":"info","message":"Historial de devoluciones obtenido por admin 1","timestamp":"2025-05-17T16:42:06.813Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/settings","timestamp":"2025-05-17T16:42:13.380Z"}
+{"level":"info","message":"Configuraciones obtenidas por admin 1","timestamp":"2025-05-17T16:42:13.385Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/inventory/alerts","timestamp":"2025-05-17T16:42:20.772Z"}
+{"level":"info","message":"Alertas de inventario obtenidas por admin 1","timestamp":"2025-05-17T16:42:20.778Z"}
+{"level":"info","message":"Solicitud recibida: GET /api/inventory/alert-history","timestamp":"2025-05-17T16:42:24.069Z"}
+{"level":"info","message":"Historial de alertas obtenido por admin 1","timestamp":"2025-05-17T16:42:24.084Z"}
